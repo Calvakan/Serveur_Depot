@@ -1,4 +1,0 @@
-AuthName "Veuillez-vous identifier !"
-AuthType Basic
-AuthUserFile "C:\wamp\www\serveur_depot\.htpasswd"
-Require valid-user
