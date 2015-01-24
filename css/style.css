@@ -1,0 +1,55 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #C3F6BA;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Arial, "Times New Roman", Times, sans-serif;
+}
+
+#logo_esirem
+{
+width: 200px;
+height: 250px;
+position: absolute;
+top: 0px;
+left: 0px;
+background-image:url(img/logo.png);
+}
+
+a
+{
+color: #3399FF;
+text-decoration: none;
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+a:hover
+{
+text-decoration: underline;
+}
+
+*{
+	text-align: center;
+}
+
+input[type=text] {
+	text-align:center;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	margin: 10px;
+	color: #333399;
+}
+
+label {
+	position: relative;
+	vertical-align: middle;
+	bottom: 1px;
+}
+	font-color: white;
+	
+	
+	width: auto;
+}
